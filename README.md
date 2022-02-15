@@ -32,6 +32,9 @@ a. Prazo (meses): prazo total do financiamento em meses, ou seja, o valor de Pra
 b. Juros ao mês: taxa de juros mensal corresponde à taxa anual informada. Tal taxa
 pode ser calculada com a seguinte fórmula:
 
+![Captura de tela 2022-02-14 235539](https://user-images.githubusercontent.com/27660298/153989898-57189f01-003d-491a-9745-24214ea80b41.jpg)
+
+
 Onde jm é a taxa mensal, e ja é a taxa anual.
 
 c. Juros acumulados: soma de todos os valores pagos de juros, considerando todas as
@@ -59,6 +62,9 @@ estarem vazios ou com valores inválidos.
 5. Estilize a aplicação usando CSS da maneira que achar adequado. A única exigência é utilizar
 cor de texto diferente para destacar um ou mais elementos. A imagem é um exemplo de
 possível interface, apenas como inspiração:
+
+![Captura de tela 2022-02-14 234359](https://user-images.githubusercontent.com/27660298/153989791-2ec0bc90-1df2-4d0c-88ef-0a66228c5a93.jpg)
+
 
 Dicas
 
